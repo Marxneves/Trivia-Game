@@ -19,12 +19,13 @@ button:disabled {
 }
 
 .div-questions {
-  background-color: rgb(179, 179, 179)
+  /* background-color: rgb(179, 179, 179) */
 }
 
 .time {
   text-align: center;
-  background-color: rgb(179, 179, 179);
+  /* background-color: rgb(179, 179, 179); */
+  background-color: white;
   border-radius: 50%;
   width: 35px;
   height: 35px;

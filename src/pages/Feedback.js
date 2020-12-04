@@ -40,7 +40,7 @@ class Feedback extends Component {
         <p>
           <span>Um total de </span>
           <span data-testid="feedback-total-score">{ score }</span>
-          <span> pontos</span>
+          <span> pontos </span>
         </p>
       </section>
     );

@@ -46,7 +46,6 @@ export default class Settings extends React.Component {
         </Link>
 
         <form className="form-api">
-          {/* <h2 className="form-signin-heading">Settings Game</h2> */}
           <div className="flex-labels">
             <label htmlFor="amount">
               Number of Questions:
