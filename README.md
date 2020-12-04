@@ -3,8 +3,6 @@
 Esse projeto foi desenvolvido como forma de avaliar o conhecimento em React e Redux, além de desenvolver as habilidades de trabalho em equipe.
 
 <!-- Link para acessar o jogo: [Trivia Game](http://Marxneves.github.io/Trivia-Game) -->
-
-## COMO FICOU
 ![](trivia.gif)
 
 ## HABILIDADES
