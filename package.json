@@ -20,15 +20,8 @@
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
-    "cy": "cypress run",
-    "cy:open": "cypress open",
     "start": "react-scripts start",
-    "build": "react-scripts build",
-    "test": "react-scripts test",
-    "test:watch": "react-scripts test --watchAll",
-    "eject": "react-scripts eject",
-    "test-coverage": "react-scripts test --coverage --watchAll=false",
-    "lint": "eslint --no-inline-config --no-error-on-unmatched-pattern -c .eslintrc.json ."
+    "build": "react-scripts build"
   },
   "eslintConfig": {
     "extends": "react-app"
