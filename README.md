@@ -4,6 +4,9 @@ Esse projeto foi desenvolvido como forma de avaliar o conhecimento em React e Re
 
 <!-- Link para acessar o jogo: [Trivia Game](http://Marxneves.github.io/Trivia-Game) -->
 
+## COMO FICOU
+![](trivia.gif)
+
 ## HABILIDADES
 
 Nesse projeto, você será capaz de:
