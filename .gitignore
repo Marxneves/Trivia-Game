@@ -9,7 +9,11 @@
 /coverage
 
 # production
-# /build
+/build
+/cypress/
+/cypress*
+
+/.es*
 
 # misc
 .DS_Store
